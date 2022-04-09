@@ -1,4 +1,9 @@
 # Testochain
+
+Copyright (c) 2022 Victor Garcia | Special Thanks: David Joseph Katz
+
+Distributed under the MIT License
+
 A cryptocurrency made for test
 
 This system was made by Victor Garcia using the course *Build a Blockchain and Cryptocurrency | Full-Stack Edition* course on Udemy by David Katz.
