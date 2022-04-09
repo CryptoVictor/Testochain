@@ -2,7 +2,7 @@
 
 Copyright (c) 2022 Victor Garcia | Special Thanks: David Joseph Katz
 
-Distributed Under The MIT License
+Distributed under the MIT License
 
 A cryptocurrency made for test
 
