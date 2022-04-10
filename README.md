@@ -1,4 +1,4 @@
- ![screenshot](/Screenshot.PNG)
+ ![screenshot](/Screenshot..PNG)
 
 # Testochain
 
