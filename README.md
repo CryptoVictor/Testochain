@@ -18,4 +18,4 @@ Check-out the course: https://www.udemy.com/course/build-blockchain-full-stack.
 
 Check-out the instructor of the course: https://www.udemy.com/user/54cd8dd54e49b
 
-Check-out this system running: https://testochain.000webhostapp.com/
+Check-out the official site of this system: https://testochain.000webhostapp.com/
