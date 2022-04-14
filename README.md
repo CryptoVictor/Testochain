@@ -12,7 +12,7 @@
 
 ### How to make this code run? ###
 
-<p> To make this code run on your machine, you have to have NodeJs installed, and replace the information in the pubsub.js file, where it says you have to put your credentials there, then you use your credentials from some pubnub account you have , create one if you don't have one, put the credentials there, and now you enter in some prompt (this code only works if you are using Windows) and go to the folder that the project is located, and now write: </p>
+<p> To make this code run on your machine, you have to have NodeJs installed, and replace the information in the pubsub.js file, where it says you have to put your credentials there, then you use your credentials from some pubnub account you have , create one if you don't have one, put the credentials there, now you enter in some prompt (this code only works if you are using Windows) and go to the folder that the project is located, and now write: </p>
 
     npm run dev
 
@@ -24,7 +24,7 @@
 
     npm run dev-peer 
 
-<p> Now if you're wondering, how to run this code, so that even if the machine itself doesn't have the code, it can use the system, it's simple, just put your code running on sites like heroku, or whatever you want, and the system will run even if you don't have the code on your machine as it would be running on another machine. </p>
+<p> Now if you're wondering, how to run this code, even if the machine itself doesn't have the code, it's simple, just put your code running on sites like heroku, or whatever you want, and the system will run even if you don't have the code on your machine as it would be running on another machine. </p>
 
 ### Check-out ###
 
