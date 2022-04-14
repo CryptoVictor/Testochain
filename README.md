@@ -28,8 +28,8 @@
 
 ### Check-out ###
 
-<p> Check-out the course: https://www.udemy.com/course/build-blockchain-full-stack. </p>
+<p> Course: https://www.udemy.com/course/build-blockchain-full-stack. </p>
 
-<p> Check-out the instructor of the course: https://www.udemy.com/user/54cd8dd54e49b </p>
+<p> Instructor of the course: https://www.udemy.com/user/54cd8dd54e49b </p>
 
-<p> Check-out the official site of this system: https://testochain.000webhostapp.com/ </p>
+<p> Official site of this system: https://testochain.000webhostapp.com/ </p>
