@@ -12,15 +12,15 @@
 
 ### How to make this code run? ###
 
-<p> To make this code run on your machine, you have to have NodeJs installed, and replace the information in the pubsub.js file, where it says you have to put your credentials there, then you use your credentials from some pubnub account you have , create one if you don't have one, put the credentials there, and now you enter windows powershell (this code only works if you are using windows) and go to the folder that the project is located, and now write: </p>
+<p> To make this code run on your machine, you have to have NodeJs installed, and replace the information in the pubsub.js file, where it says you have to put your credentials there, then you use your credentials from some pubnub account you have , create one if you don't have one, put the credentials there, and now you enter windows powershell (this code only works if you are using Windows) and go to the folder that the project is located, and now write: </p>
 
     npm run dev
 
-<p> if you want to run other instances of the code on the same machine at the same time, you should run it by writing this text: </p>
+<p> If you want to run other instances of the code on the same machine at the same time, you should run it by writing this text: </p>
 
     npm run dev-peer
 
-<p> then you go to where the url of it is running, and it will be there, the system running on your pc, using your network. To run on different PCs on the same network, just put the same credentials in the pubnub.js file mentioned earlier and if you already have an instance running, use: </p>
+<p> Then you go to where the url of it is running, and it will be there, the system running on your pc, using your network. To run on different PCs on the same network, just put the same credentials in the pubnub.js file mentioned earlier and if you already have an instance running, use: </p>
 
     npm run dev-peer 
 
