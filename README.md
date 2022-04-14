@@ -14,7 +14,7 @@
 
 <p> To make this code run on your machine, you have to have NodeJs installed, and replace the information in the pubsub.js file, where it says you have to put your credentials there, then you use your credentials from some pubnub account you have , create one if you don't have one, put the credentials there, and now you enter windows powershell (this code only works if you are using windows) and go to the folder that the project is located, and now write: </p>
 
- npm run dev
+    npm run dev
 
 <p> if you want to run other instances of the code on the same machine at the same time, you should run it by writing this text: </p>
 
