@@ -12,7 +12,7 @@
 
 ### How to make this code run? ###
 
-<p> To make this code run on your machine, you have to have NodeJs installed, and replace the information in the pubsub.js file, where it says you have to put your credentials there, then you use your credentials from some pubnub account you have , create one if you don't have one, put the credentials there, and now you enter in  Windows Powershell (this code only works if you are using Windows) and go to the folder that the project is located, and now write: </p>
+<p> To make this code run on your machine, you have to have NodeJs installed, and replace the information in the pubsub.js file, where it says you have to put your credentials there, then you use your credentials from some pubnub account you have , create one if you don't have one, put the credentials there, and now you enter in some prompt (this code only works if you are using Windows) and go to the folder that the project is located, and now write: </p>
 
     npm run dev
 
