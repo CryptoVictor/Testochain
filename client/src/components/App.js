@@ -1,3 +1,7 @@
+// Copyright (c) 2022 Victor Garcia | Special Thanks: David Joseph Katz
+// Distributed under the MIT software license, see the accompanying
+// file LICENSE.txt or https://opensource.org/licenses/MIT
+
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../assets/logo.png';
