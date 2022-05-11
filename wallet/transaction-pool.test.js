@@ -1,3 +1,7 @@
+// Copyright (c) 2022 Victor Garcia | Special Thanks: David Joseph Katz
+// Distributed under the MIT software license, see the accompanying
+// file LICENSE or https://opensource.org/licenses/MIT
+
 const TransactionPool = require('./transaction-pool');
 const Transaction = require('./transaction');
 const Wallet = require('./index');
