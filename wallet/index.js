@@ -1,3 +1,7 @@
+// Copyright (c) 2022 Victor Garcia | Special Thanks: David Joseph Katz
+// Distributed under the MIT software license, see the accompanying
+// file LICENSE.txt or https://opensource.org/licenses/MIT
+
 const Transaction = require('./transaction');
 const { STARTING_BALANCE } = require('../config');
 const { ec, cryptoHash} = require('../util');
