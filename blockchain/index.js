@@ -1,3 +1,7 @@
+// Copyright (c) 2022 Victor Garcia | Special Thanks: David Joseph Katz
+// Distributed under the MIT software license, see the accompanying
+// file LICENSE.txt or https://opensource.org/licenses/MIT
+
 const Block = require('./block');
 const Transaction = require('../wallet/transaction');
 const Wallet = require('../wallet');
