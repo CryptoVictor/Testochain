@@ -1,3 +1,7 @@
+// Copyright (c) 2021 Victor Garcia
+// Distributed under the MIT software license, see the accompanying
+// file LICENSE or https://opensource.org/licenses/MIT
+
 const bodyParser = require('body-parser');
 const express = require('express');
 const request = require('request');
