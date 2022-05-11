@@ -3,8 +3,8 @@
 # Testochain
 
 <p> Copyright (c) 2022 Victor Garcia | Special Thanks: David Joseph Katz </p>
-
-<p> Distributed under the MIT License </p>
+<p> Distributed under the MIT software license, see the accompanying </p>
+<p> file LICENSE.txt or https://opensource.org/licenses/MIT </p>
 
 ### A cryptocurrency made for test ###
 
