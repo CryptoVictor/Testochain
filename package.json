@@ -18,7 +18,7 @@
     "testEnvironment": "node"
   },
   "keywords": [],
-  "author": "Victor Garcia",
+  "author": "Victor Garcia | Special Thanks: David Joseph Katz",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.17.8",
