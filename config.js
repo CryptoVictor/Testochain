@@ -1,6 +1,6 @@
 // Copyright (c) 2022 Victor Garcia | Special Thanks: David Joseph Katz
 // Distributed under the MIT software license, see the accompanying
-// file LICENSE or https://opensource.org/licenses/MIT
+// file LICENSE.txt or https://opensource.org/licenses/MIT
 
 const MINE_RATE = 30000;
 const INITIAL_DIFFICULTY = 1;
