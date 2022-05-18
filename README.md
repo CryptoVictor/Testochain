@@ -6,13 +6,18 @@
 <p> Distributed under the MIT software license, see the accompanying </p>
 <p> file LICENSE.txt or https://opensource.org/licenses/MIT </p>
 
+### Requirements:###
+
+Node.js version >= 14.0
+Windows version >= 7.0
+
 ### A cryptocurrency made for test ###
 
 <p> This system was made by Victor Garcia using the course *Build a Blockchain and Cryptocurrency | Full-Stack Edition* on Udemy by David Katz. </p>
 
 ### How to make this code run? ###
 
-<p> To make this code run on your machine, you have to have NodeJs installed, and replace the information in the pubsub.js file, where it says you have to put your credentials there, then you use your credentials from some pubnub account you have , create one if you don't have one, put the credentials there, now you enter in some prompt (this code only works if you are using Windows) and go to the folder that the project is located, and now write: </p>
+<p> To make this code run on your machine, you have to have NodeJs installed, and replace the information in the pubsub.js file, where it says you have to put your credentials there, then you use your credentials from some pubnub account you have , create one if you don't have one, put the credentials there, now you enter in some prompt and go to the folder that the project is located, and now write: </p>
 
     npm run dev
 
