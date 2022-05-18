@@ -6,7 +6,7 @@
 <p> Distributed under the MIT software license, see the accompanying </p>
 <p> file LICENSE.txt or https://opensource.org/licenses/MIT </p>
 
-### Requirements:###
+### Requirements: ###
 
 Node.js version >= 14.0
 Windows version >= 7.0
