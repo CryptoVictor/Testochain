@@ -8,8 +8,8 @@
 
 ### Requirements: ###
 
-Node.js version >= 14.0
-Windows version >= 7.0
+<p> Node.js version >= 14.0 </p>
+<p> Windows version >= 7.0 </p>
 
 ### A cryptocurrency made for test ###
 
